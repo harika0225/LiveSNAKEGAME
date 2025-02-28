@@ -1,5 +1,5 @@
 <b>Hey guys..!<br>
-  I am Tharun from sathyabama University<br>
+  I am Harika from Ganapavaram<br>
   This project is mainly using python and opencv.<br></b>
 # LiveSNAKEGAME
 
